@@ -1,4 +1,4 @@
-module uuid-generator
+module github.com/aengele/uuid-generator
 
 go 1.19
 
